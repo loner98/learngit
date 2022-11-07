@@ -7,3 +7,5 @@ Creating a new branch is quick AND simple.
 =======
 Creating a new branch is quick AND simpel.
 >>>>>>> feature1
+hello
+
